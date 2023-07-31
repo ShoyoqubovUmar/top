@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bg{
+    background: radial-gradient(123.22% 129.67% at 100.89% -5.6%, #201D47 0%, #17153A 100%);
+}
+p{
+    color: rgba(91, 90, 153, 1);
+}
+h4{
+    color: rgba(177, 175, 205, 1);
+}
+.sky:hover{
+    background: linear-gradient(135deg, #40DDFF 0%, #14BAE3 19.24%, #13B1E6 68.64%, #11AADF 81.77%, #0B98C5 100%);
+}
